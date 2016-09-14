@@ -1,0 +1,6 @@
+E:\work\mentoringProgramm\BCL1\BCL1\bin\Debug\BCL1.exe.config
+E:\work\mentoringProgramm\BCL1\BCL1\bin\Debug\BCL1.exe
+E:\work\mentoringProgramm\BCL1\BCL1\bin\Debug\BCL1.pdb
+E:\work\mentoringProgramm\BCL1\BCL1\obj\Debug\BCL1.csprojResolveAssemblyReference.cache
+E:\work\mentoringProgramm\BCL1\BCL1\obj\Debug\BCL1.exe
+E:\work\mentoringProgramm\BCL1\BCL1\obj\Debug\BCL1.pdb
