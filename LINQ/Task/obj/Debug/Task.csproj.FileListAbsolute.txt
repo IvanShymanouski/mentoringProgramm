@@ -1,0 +1,9 @@
+E:\work\mentoringProgramm\LINQ\Task\bin\Debug\Task.exe.config
+E:\work\mentoringProgramm\LINQ\Task\bin\Debug\Task.exe
+E:\work\mentoringProgramm\LINQ\Task\bin\Debug\Task.pdb
+E:\work\mentoringProgramm\LINQ\Task\obj\Debug\Task.csprojResolveAssemblyReference.cache
+E:\work\mentoringProgramm\LINQ\Task\obj\Debug\Task.Properties.Resources.resources
+E:\work\mentoringProgramm\LINQ\Task\obj\Debug\SampleSupport.SampleForm.resources
+E:\work\mentoringProgramm\LINQ\Task\obj\Debug\Task.csproj.GenerateResource.Cache
+E:\work\mentoringProgramm\LINQ\Task\obj\Debug\Task.exe
+E:\work\mentoringProgramm\LINQ\Task\obj\Debug\Task.pdb
