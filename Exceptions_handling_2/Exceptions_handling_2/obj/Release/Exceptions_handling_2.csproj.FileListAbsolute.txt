@@ -1,0 +1,5 @@
+E:\work\mentoringProgramm\Exceptions_handling_2\Exceptions_handling_2\bin\Release\Exceptions_handling_2.exe.config
+E:\work\mentoringProgramm\Exceptions_handling_2\Exceptions_handling_2\bin\Release\Exceptions_handling_2.exe
+E:\work\mentoringProgramm\Exceptions_handling_2\Exceptions_handling_2\bin\Release\Exceptions_handling_2.pdb
+E:\work\mentoringProgramm\Exceptions_handling_2\Exceptions_handling_2\obj\Release\Exceptions_handling_2.exe
+E:\work\mentoringProgramm\Exceptions_handling_2\Exceptions_handling_2\obj\Release\Exceptions_handling_2.pdb

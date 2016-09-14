@@ -1,0 +1,4 @@
+E:\work\mentoringProgramm\Exceptions_handling_2\CustomParsers\bin\Debug\CustomParse.dll
+E:\work\mentoringProgramm\Exceptions_handling_2\CustomParsers\bin\Debug\CustomParse.pdb
+E:\work\mentoringProgramm\Exceptions_handling_2\CustomParsers\obj\Debug\CustomParse.dll
+E:\work\mentoringProgramm\Exceptions_handling_2\CustomParsers\obj\Debug\CustomParse.pdb

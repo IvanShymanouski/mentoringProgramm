@@ -1,0 +1,8 @@
+E:\work\mentoringProgramm\Exceptions_handling_2\Exceptions_handling_2\bin\Debug\Exceptions_handling_2.exe.config
+E:\work\mentoringProgramm\Exceptions_handling_2\Exceptions_handling_2\obj\Debug\Exceptions_handling_2.csprojResolveAssemblyReference.cache
+E:\work\mentoringProgramm\Exceptions_handling_2\Exceptions_handling_2\bin\Debug\Exceptions_handling_2.exe
+E:\work\mentoringProgramm\Exceptions_handling_2\Exceptions_handling_2\bin\Debug\Exceptions_handling_2.pdb
+E:\work\mentoringProgramm\Exceptions_handling_2\Exceptions_handling_2\obj\Debug\Exceptions_handling_2.exe
+E:\work\mentoringProgramm\Exceptions_handling_2\Exceptions_handling_2\obj\Debug\Exceptions_handling_2.pdb
+E:\work\mentoringProgramm\Exceptions_handling_2\Exceptions_handling_2\bin\Debug\CustomParse.dll
+E:\work\mentoringProgramm\Exceptions_handling_2\Exceptions_handling_2\bin\Debug\CustomParse.pdb

@@ -1,0 +1,5 @@
+E:\work\mentoringProgramm\Exceptions_handling_2\CustomParse\bin\Debug\CustomParse.dll
+E:\work\mentoringProgramm\Exceptions_handling_2\CustomParse\bin\Debug\CustomParse.pdb
+E:\work\mentoringProgramm\Exceptions_handling_2\CustomParse\obj\Debug\CustomParse.csprojResolveAssemblyReference.cache
+E:\work\mentoringProgramm\Exceptions_handling_2\CustomParse\obj\Debug\CustomParse.dll
+E:\work\mentoringProgramm\Exceptions_handling_2\CustomParse\obj\Debug\CustomParse.pdb
