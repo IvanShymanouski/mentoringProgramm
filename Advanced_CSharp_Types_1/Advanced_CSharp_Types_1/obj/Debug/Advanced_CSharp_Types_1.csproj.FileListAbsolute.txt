@@ -1,0 +1,5 @@
+E:\work\mentoringProgramm\Advanced_CSharp_Types_1\Advanced_CSharp_Types_1\bin\Debug\Advanced_CSharp_Types_1.exe.config
+E:\work\mentoringProgramm\Advanced_CSharp_Types_1\Advanced_CSharp_Types_1\bin\Debug\Advanced_CSharp_Types_1.exe
+E:\work\mentoringProgramm\Advanced_CSharp_Types_1\Advanced_CSharp_Types_1\bin\Debug\Advanced_CSharp_Types_1.pdb
+E:\work\mentoringProgramm\Advanced_CSharp_Types_1\Advanced_CSharp_Types_1\obj\Debug\Advanced_CSharp_Types_1.exe
+E:\work\mentoringProgramm\Advanced_CSharp_Types_1\Advanced_CSharp_Types_1\obj\Debug\Advanced_CSharp_Types_1.pdb
