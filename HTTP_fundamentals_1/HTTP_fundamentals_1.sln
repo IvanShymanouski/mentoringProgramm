@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTTP_fundamentals_1", "HTTP_fundamentals_1\HTTP_fundamentals_1.csproj", "{AD6B1146-E50D-47EF-B268-B0247404A158}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SiteDownloader", "SiteDownloader\SiteDownloader.csproj", "{E75AF36B-3E23-4618-A290-8BE0797564E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD6B1146-E50D-47EF-B268-B0247404A158}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD6B1146-E50D-47EF-B268-B0247404A158}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD6B1146-E50D-47EF-B268-B0247404A158}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD6B1146-E50D-47EF-B268-B0247404A158}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E75AF36B-3E23-4618-A290-8BE0797564E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E75AF36B-3E23-4618-A290-8BE0797564E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E75AF36B-3E23-4618-A290-8BE0797564E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E75AF36B-3E23-4618-A290-8BE0797564E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
