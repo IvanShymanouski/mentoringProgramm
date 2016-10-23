@@ -41,11 +41,11 @@ namespace MvcMusicStore
         {
             try
             {
-                errorLogger.InfoFormat(messageFormat, args);
+                errorLogger.ErrorFormat(messageFormat, args);
             }
             catch (System.FormatException)
             {
-                errorLogger.Info("Loggig error : String contains special characters.");
+                errorLogger.Error("Loggig error : String contains special characters.");
             }
         }
     }

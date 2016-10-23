@@ -26,7 +26,7 @@ namespace MvcMusicStore
         {
             var ex = Server.GetLastError();
 
-            logger.LogError(ex.ToString());
+            logger.LogError(ex.Message);
         }
     }
 }
